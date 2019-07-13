@@ -213,7 +213,7 @@ msgstr ""
 
 #. • MSG_004
 msgid "Rufus update policy"
-msgstr "Policy e azhornimeve te Rufus"
+msgstr "Rregullat e azhornimeve te Rufus"
 
 #. • MSG_005
 msgid "Do you want to allow Rufus to check for application updates online?"
