@@ -9,9 +9,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-SourceCharset: UTF-8\n"
-"X-Rufus-LanguageName: Italian (Italiano)\n"
+"X-Rufus-LanguageName: Albanian (Shqip)\n"
 "X-Rufus-LCID: 0x0410, 0x0810\n"
-"Last-Translator: \n"
+"Last-Translator: Moisi Xhaferaj\n"
 "Language-Team: Moisi Xhaferaj <elektroxray@gmail.com>\n"
 "X-Generator: Poedit 1.8.9\n"
 
@@ -147,7 +147,7 @@ msgstr "Pastro"
 
 #. • IDD_LOG → IDC_LOG_SAVE
 msgid "Save"
-msgstr "Ruaj"
+msgstr "Shpeto"
 
 #. • IDD_UPDATE_POLICY → IDD_UPDATE_POLICY
 msgid "Update policy and settings"
