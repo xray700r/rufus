@@ -147,7 +147,7 @@ msgstr "Pastro"
 
 #. • IDD_LOG → IDC_LOG_SAVE
 msgid "Save"
-msgstr "Shpeto"
+msgstr "Ruaj"
 
 #. • IDD_UPDATE_POLICY → IDD_UPDATE_POLICY
 msgid "Update policy and settings"
