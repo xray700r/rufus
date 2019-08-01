@@ -52,7 +52,8 @@ Enhancements/Bugs
 
 Please use the [GitHub issue tracker](https://github.com/pbatard/rufus/issues)
 for reporting problems or suggesting new features.
-* A request was made to add to the languages fully supported. The original author [rejected Albanian language](https://github.com/pbatard/rufus/pull/1334) for several reasons listed by the original author (most importantly having more than 30 languages to care about). So I decided to fork the project and add the needed translation. 
+* A request was made to add to the languages fully supported. The original author [rejected Albanian language](https://github.com/pbatard/rufus/pull/1334) for several reasons listed by himself in the pull request rejection (most importantly having more than 30 languages to care about). 
+* The project was then forked and the needed translation added. 
 * This repo is not officially supported by the original Rufus author but will be available to everyone who wants to have the GUI translated in Albanian.
 
 <sup>(1)</sup> Tests carried out with a 16 GB USB 3.0 ADATA pen drive on a Core 2 duo/4 GB RAM platform running Windows 7 x64.
